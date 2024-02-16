@@ -13,8 +13,9 @@
 </details>
 
 
-
 ## SOLID의 5가지 원칙
+[노션 강의자료 - SOLID](https://shqkel.notion.site/SOLID-9bc9eab74f4045108976ac23a88eccf2?pvs=4)
+
 - Single Responsibility Principle
 - Open-closed Principle
 - Liskov Substitution Principle
