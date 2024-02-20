@@ -46,7 +46,7 @@ SRP를 만족하는 설계
 ###### [@com.sh.app.bank3](https://github.com/shqkel/solid/tree/master/src/main/java/com/sh/app/bank3)
  OCP, DIP를 만족하는 설계
 - OCP : BankService는 Account에 의존하므로 특정계좌가 추가되어도 변경되지 않는다.
-- DIP : BankService는 구현체가 아닌 추상화 레이어에 Account에 의존하고 있다.
+- DIP : BankService는 구현체가 아닌 추상화 레이어인 Account에 의존하고 있다.
 
 ![](https://d.pr/i/QmiSJs+)
 
